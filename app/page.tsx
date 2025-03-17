@@ -28,7 +28,7 @@ export default function Home() {
       <section className="hero-section h-screen flex items-center justify-center px-4">
         <div className="hero-content max-w-4xl text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
-            Hi, I'm <span className="text-primary">ABHINAV KUMAR</span>
+            Hi, I&apos;m <span className="text-primary">ABHINAV KUMAR</span>
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8">
           Software Developer building scalable web applications within distributed systems.
